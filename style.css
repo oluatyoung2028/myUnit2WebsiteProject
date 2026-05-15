@@ -1,0 +1,40 @@
+body {
+  background: #ceefff;
+}
+p {
+  color: black;
+  font-size: 18px;
+}
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: hotpink;
+  font-family:cursive;
+}
+h4{
+  font-weight:500;
+}
+h3{
+  font-weight:500;
+  color: #00b600;
+  text-decoration: underline;
+}
+img{
+width: 195px;
+height:350px;
+border: double;
+
+}
+.links{
+  border-style:dotted dashed solid double;
+  font-family:monospace;
+}
+.flavors{
+  height: 200px;
+  opacity: 0.8;
+}
+
+ul li {
+  background: #90c8ff;
+  color: #ff1ed4;
+  margin: 10px;
